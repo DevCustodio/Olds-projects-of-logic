@@ -8,4 +8,4 @@ I strongly recommend if your mother tongue is portuguese.
 E ai! Aqui estão meus projetos antigos de lógica de programação.
 
 Aprendi lógica com um programa chamado "portugol", e gostei muito.
-Recomendo se a sua língua materna for o português
+Recomendo se a sua língua materna for o português.
